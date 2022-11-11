@@ -1,0 +1,78 @@
+    {
+        "name": "Adrielle",
+        "job": "Programadora",
+        "github": "adrielleClemente",
+        "playlists": {
+            "documentario": [
+                {
+                    "title": "Que Bom te Ver Viva (1989) - Lúcia Murat",
+                    "url": "https://www.youtube.com/watch?v=zqpybT37k9A",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "Nanook, O Esquimó - 1922 Legendado",
+                    "url": "https://www.youtube.com/watch?v=SzFHgrzxGkk",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "Retrato de Classe - Gregório Bacic, 1977",
+                    "url": "https://www.youtube.com/watch?v=j7Yd_pkH4O4",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "O Homem com Uma Câmera - Português - Pt",
+                    "url": "https://www.youtube.com/watch?v=QZoddf7_GmQ",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "Rituais e Festas Borôro (Comissão Rondon 1917)",
+                    "url": "https://www.youtube.com/watch?v=o1kQ1KdF43c",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "Primitive Peoples of Matto Grosso (Ted Nemet 1941)",
+                    "url": "https://www.youtube.com/watch?v=5drnOHM94CY",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "Cinco vezes Favela (1962)",
+                    "url": "https://www.youtube.com/watch?v=-HduHqlRdWI",
+                    "thumb": "thumb do vídeo"
+                }
+            
+            ],
+            "curtametragem": [
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                },
+                {
+                    "title": "o título",
+                    "url": "url",
+                    "thumb": "thumb do vídeo"
+                }
+            
+            ]
+        }
+    }
