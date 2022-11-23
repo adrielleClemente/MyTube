@@ -85,16 +85,16 @@ function Timeline(props) {
                         <h2> {playlistName} </h2>
 
                         <div>
-                        {videos.map((video) => {
-                    return(
-                            <a href={video.url}>
-                                <img src={video.thumb} />
-                                <span>
-                                    {video.title}
-                                </span>
-                            </a>
-                            )
-                })}
+                            {videos.map((video) => {
+                                return (
+                                    <a href={video.url}>
+                                        <img src={video.thumb} />
+                                        <span>
+                                            {video.title}
+                                        </span>
+                                    </a>
+                                )
+                            })}
                         </div>
                     </section>
                 )

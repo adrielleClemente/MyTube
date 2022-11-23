@@ -1,9 +1,7 @@
 # MyTube
 **Descrição:** 
 
-Projeto com React na Imersão Alura.
-
-O conceito é criar uma page do _youtube_ própria, com o estilo e vídeos escolhidos por mim.
+Projeto com React na Imersão Alura. O conceito é criar uma page do _youtube_ própria, com o estilo e vídeos escolhidos por mim.
 
 
 
